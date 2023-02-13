@@ -54,7 +54,7 @@ import { title } from 'process';
   .article-card {
     display: block;
     background: white;
-    padding: 10px;
+    padding: 40px;
     border: solid rgb(186, 186, 186) 1px;
     border-radius: 10px;
     h3 {
